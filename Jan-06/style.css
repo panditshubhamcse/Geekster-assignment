@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+}
+body{
+    display: block;
+    text-align: center;
+    background-color: black;
+}
+section{
+
+    background-color: white;
+    border: 2px solid black;
+    margin: 10px auto;
+    width: 210mm;
+    height: 297mm;
+    box-shadow: 3px 3px 0px 0px ;
+}
+main{
+    border: 2px solid rgb(175, 4, 243);
+    margin: 100px 100px 5px 100px;
+    border-top: 2px solid rgb(188, 11, 241);
+    border-bottom: 2px solid rgb(204, 16, 241);
+    height: 240mm;
+    overflow: hidden;
+  
+}
+#S{
+    margin-top: 30px;
+}
+.A{
+    text-align: justify;
+    margin-top: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.B{
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.A::first-letter{
+    font-size: 40px;
+
+    
+} 
+.B::first-letter{
+    font-size: 40px;
+}
+h4, h2, h3{
+    text-align: center;
+}
