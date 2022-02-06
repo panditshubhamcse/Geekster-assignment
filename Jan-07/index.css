@@ -1,0 +1,32 @@
+section {
+    background-color: rgb(214, 214, 214);
+    height: 400px;
+    width: 600px;
+    margin: auto;
+    margin-top: 150px;
+  }
+  .triangle1 {
+    margin: auto;
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 100px solid rgb(236, 114, 14);
+    position: relative;
+    top: 40px;
+  }
+  .triangle2 {
+    margin: auto;
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 100px solid rgb(255, 255, 255);
+  }
+  .triangle3 {
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-bottom: 40px solid rgb(22, 212, 38);
+    width: 100px;
+    margin: auto;
+  }
