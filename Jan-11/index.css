@@ -1,0 +1,71 @@
+body{
+    margin: 0px;
+   background-image: url(https://i.pinimg.com/originals/7f/e7/74/7fe774bbacce09f00cb5b2e3cbc48db3.png);
+
+}
+
+h2{
+    background-color:rgb(214, 214, 214);
+    margin: 0px;
+    margin-left: 0px;
+    padding: 10px;
+}
+
+li{
+   list-style-type: none;
+   padding: 10px;
+}
+
+.a{
+    position: -webkit-sticky;
+    
+    position:sticky;
+    width:100%;
+    z-index:1;
+    top:0;
+    
+}
+.b{
+    position: -webkit-sticky;
+    
+    position: sticky;
+    width:100%;
+    z-index: 2;
+    top:0;
+}
+.c{
+    position: -webkit-sticky;
+    position: sticky;
+    width:100%;
+    z-index:3;
+    top:0;
+}
+.d{
+    position: -webkit-sticky;
+    position: sticky;
+    width:100%;
+    z-index:4;
+    top:0;
+}
+.e{
+    position: -webkit-sticky;
+    position: sticky;
+    width:100%;
+    z-index:4;
+    top:0;
+}
+#S{
+    color: cornsilk;
+}
+#H{
+    color: cornsilk;
+}
+#U{
+    color: cornsilk;
+}
+#B{
+    color: cornsilk;
+}
+#M{
+    color: cornsilk;
+}
