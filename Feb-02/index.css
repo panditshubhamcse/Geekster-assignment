@@ -1,0 +1,59 @@
+
+.timer{
+    display: flex;
+    justify-content: center;
+    border:2px solid grey;
+    border-radius: 8px;
+   
+    flex-direction: column;
+    width: 200px;
+   
+}
+
+.heading{
+    display:flex;
+    justify-items: center;
+    justify-content: center;
+    color:rgb(255, 0, 106);
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+.display{
+    display:flex;
+    justify-items: center;
+    justify-content: left;
+    margin-left: 30px;
+    color:black;
+   
+    
+    
+}
+p{
+    font-size: 25px;
+    
+}
+.buttonsec{
+    height:50px;
+    width:100%;
+    border-top: 2px solid rgb(0, 0, 0);
+    
+}
+button{
+    margin: 10px 0px 10px 10px;
+    height:30px;
+    width:80px;
+    color: white;
+    background-color: rgb(19, 25, 36);
+    color: tomato;
+    border: transparent;
+    border-radius: 5px;
+    font-size: 15px;
+
+
+}
+.pro{
+    animation-timing-function: linear;
+    background-color: rgb(77 144 254);
+    height: 3px;
+    width: 10%;
+    animation-duration: 300s;
+}
